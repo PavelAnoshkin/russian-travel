@@ -1,0 +1,22 @@
+.place__header {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin-bottom: 48px;
+}
+
+@media all and (max-width: 500px) {
+    .place__header {
+        margin-bottom: 32px;
+        justify-content: flex-start;
+        flex-direction: column;
+        width: calc(100%);
+    }
+}
+
+@media all and (max-width: 425px) {
+    .place__header {
+        width: calc(100% - 32px);
+        margin: 0 auto 48px;
+    }
+}

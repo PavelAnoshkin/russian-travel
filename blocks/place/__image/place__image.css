@@ -1,0 +1,24 @@
+.place__image {
+    width: calc(50% - 20px);
+    height: 100%;
+    margin: 0;
+}
+
+@media all and (max-width: 1024px) {
+    .place__image {
+        width: calc(50% - 16px);
+    } 
+}
+
+@media all and (max-width: 768px) {
+    .place__image {
+        width: calc(50% - 14px);
+    }
+}
+
+@media all and (max-width: 500px) {
+    .place__image {
+        margin-bottom: 32px;
+        width: 100%;
+    }
+}

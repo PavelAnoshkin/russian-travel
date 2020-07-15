@@ -1,0 +1,9 @@
+.header__lang-link_lang_ru {
+    border-bottom: 2px solid #fff;
+}
+
+@media all and (max-width: 425px) {
+    .header__lang-link_lang_ru {
+        border-bottom: 1px solid #fff;
+    }
+}

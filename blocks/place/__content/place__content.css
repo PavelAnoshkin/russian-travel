@@ -1,0 +1,16 @@
+.place__content {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;  
+}
+
+@media all and (max-width: 500px) {
+    .place__content {
+        margin-bottom: 32px;
+        justify-content: center;
+        flex-direction: column;        
+    }
+}
+
+
+
