@@ -6,7 +6,6 @@
 
 @media all and (max-width: 500px) {
     .place__content {
-        margin-bottom: 32px;
         justify-content: center;
         flex-direction: column;        
     }

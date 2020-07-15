@@ -17,6 +17,6 @@
 @media all and (max-width: 425px) {
     .place__header {
         width: calc(100% - 32px);
-        margin: 0 auto 48px;
+        margin: 0 auto 32px;
     }
 }

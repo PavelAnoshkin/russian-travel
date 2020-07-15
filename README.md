@@ -22,6 +22,6 @@
 
 Добвавить версию на английском языке для мотивации иностранных туристов.
 
-**Ссылка на проект**
+**Ссылка проекта на GitHub**
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile?node-id=28503%3A0)
+* [Путешествие по России](https://pavelanoshkin.github.io/russian-travel/)
