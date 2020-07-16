@@ -5,10 +5,12 @@
     margin: 0;
     text-decoration: none;
     color: #fff;
+    transition: opacity 1s ease 1s;
 }
 
 .footer__link:hover {
     opacity: 0.8;
+    transition: opacity 1s ease;
 }
 
 @media all and (max-width: 525px) {

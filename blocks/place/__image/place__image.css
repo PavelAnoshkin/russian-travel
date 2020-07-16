@@ -16,7 +16,7 @@
     }
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 530px) {
     .place__image {
         margin-bottom: 32px;
         width: 100%;

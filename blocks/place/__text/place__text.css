@@ -18,9 +18,9 @@
     }
 }
 
-@media all and (max-width: 500px) {
+@media all and (max-width: 530px) {
     .place__text {
-        width: calc(100%);       
+        width: 100%;       
     }
 }
 

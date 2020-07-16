@@ -4,5 +4,6 @@
     line-height: 1;
     letter-spacing: 2px;
     font-weight: normal;
-    margin: 0 0 12px;    
+    margin: 0 0 12px;  
+    text-transform: uppercase;  
 }
