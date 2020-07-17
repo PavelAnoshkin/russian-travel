@@ -1,7 +1,8 @@
 .cover__background {
-    position: relative;
     background: url(../../../images/cover-trains.png) no-repeat;
     width: 100%;
-    background-size: 100%;
     padding-bottom: 62.5%;
+    background-size: 100%;
+    grid-row: 1;
+    grid-column: 1;
 }

@@ -8,6 +8,9 @@
     max-height: 780px;
     margin: 0 auto 92px;
     width: calc(100% - 96px);
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr;
 }
 
 

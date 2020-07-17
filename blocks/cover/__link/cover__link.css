@@ -7,12 +7,9 @@
    justify-content: center;
    text-decoration: none;
    background-color: rgba(42,44,47,.3);
-   transition: background-color 1s ease 1s; 
-   position: absolute;
-   top: 0;
-   left: 0;
-   bottom: 0;
-   right: 0;
+   transition: background-color 1s ease 1s;
+   grid-row: 1;
+   grid-column: 1;
 }
 
 .cover__link:hover {
